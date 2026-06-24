@@ -1,4 +1,4 @@
-# Hybrid Selenium Framework
+# Hybrid Selenium Automation Framework
 
 ## Overview
 
