@@ -15,16 +15,30 @@ Hybrid Test Automation Framework developed using Selenium WebDriver, Java, TestN
 * Extent Reports
 * Git & GitHub
 
+## Framework Structure
+
+src/test/java
+│
+├── Base
+├── POM
+├── Utility
+├── listeners
+├── retry
+└── TestClasses
+
 ## Features
 
 * Page Object Model (POM)
-* Data Driven Testing
-* Cross Browser Testing
-* Parallel Execution
+* Data Driven Testing using Excel (Apache POI)
+* Cross Browser Testing (Chrome & Firefox)
+* Parallel Execution using TestNG
 * Retry Mechanism
-* Screenshot Capture
+* Screenshot Capture on Failure
 * Extent Reporting
+* Log4j2 Logging
 * ThreadLocal WebDriver
+* TestNG Integration
+* Scalable Hybrid Framework Design
 
 ## Project Structure
 
@@ -46,11 +60,12 @@ Automation Test Engineer
 
 Experience: 3.5 Years
 
-Skills:
-- Selenium WebDriver
-- Java
-- TestNG
-- Maven
-- API Testing
-- SQL
-- Manual Testing
+### Skills
+
+* Selenium WebDriver
+* Java
+* TestNG
+* Maven
+* API Testing
+* SQL
+* Manual Testing
