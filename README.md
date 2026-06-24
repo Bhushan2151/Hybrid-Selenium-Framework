@@ -41,6 +41,16 @@ mvn clean test
 ## Author
 
 Bhushan Chaudhari
+
 Automation Test Engineer
 
-Added README file
+Experience: 3.5 Years
+
+Skills:
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- API Testing
+- SQL
+- Manual Testing
