@@ -17,14 +17,28 @@ Hybrid Test Automation Framework developed using Selenium WebDriver, Java, TestN
 
 ## Framework Structure
 
-src/test/java
+Practice
 │
-├── Base
-├── POM
-├── Utility
-├── listeners
-├── retry
-└── TestClasses
+├── src/main/java
+│   ├── Base
+│   ├── listeners
+│   ├── POM
+│   ├── retry
+│   └── Utility
+│
+├── src/main/resources
+│
+├── src/test/java
+│   ├── com.Practice
+│   └── TestClasses
+│
+├── src/test/resources
+│   ├── TestData
+│   ├── config.properties
+│   └── log4j2.xml
+│
+├── pom.xml
+└── testng.xml
 
 ## Features
 
