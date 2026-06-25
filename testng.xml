@@ -11,6 +11,7 @@
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="TestClasses.FacebookTestClass"/>
+            <class name="TestClasses.DashBoardTest"/>
         </classes>
     </test>
 
