@@ -59,7 +59,7 @@ public class BaseClass {
 
         if(getDriver() != null) {
 
-            getDriver().quit();
+            //getDriver().quit();
 
             driver.remove();
         }
